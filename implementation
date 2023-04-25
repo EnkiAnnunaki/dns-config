@@ -1,9 +1,9 @@
-#Please follow these instructions to implement crome-repo (101) on your device or system wide (use DNS)
+#Please follow these instructions to implement dns-config file (dns109) on your device or system wide (use DNS)
 ##Linux ONLY##
 #nano /usr/bin/sec1
 #! /bin/bash
 
-find [path-to-101] -type f | xargs << aaa xargs
+find [path-to-dns109] -type f | xargs << aaa xargs
 
 aaa
 
@@ -38,7 +38,7 @@ WantedBy=multi-user.target
 #/etc/systemd/system/101x-restart.timer
 
 [Unit]
-Description=Start 101x.service Every 2 Minutes
+Description=Start 101x.service Every 1 Minutes
 
 [Timer]
 OnUnitInactiveSec=1m
