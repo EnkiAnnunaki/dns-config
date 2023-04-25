@@ -1,44 +1,44 @@
 for sync@network-on-pin >> source=IP-parse : design-sync=map-meter @cast-interface --IP$-regen@soft-link:net$:IP$-confirmed >> net-data:bind @stac-core:rebind:parse-link aps-data:on-full-sync:net$=auto-confirm && bind-parse:mac-delete && KDNG-if:core >> mac-sort@socket-plug .VN-config @maast_scheip_intercept : net-bind@course$=monitor-sync && parse : auto-action >> net$@contrib:C6-1vem-U:path @bind-link:fall/off .mac-boot=source-operation && net$-on-plug@route::>>force@bind-sync == parse-mint >> relief : Cpac-link && knit-net$;scoket-link .id$=variou$ && manage@action == supply-sync >> network-transfer :: >> VB_force@link && path-link:it$-display.sync@net$ --on-config >> meep --id$-track && cli-indicate@mp-os:return@GL-i:cli.boot-sock-link@mac :: --force@sock >> bind-net.link @core-operation :: verbose.bin && multi-net.parse:link-id$ >> source@receive >> parse >> redirect:core$ .mint-manage && restore-kia:regen:pac --it$:socket >> link_exchange && net_meter_parse : all-it$@variou$ --sync :: multi-manage.map@socket-sync >> display :: cast @equi-variant.pac:it$ :: source-manage : Vbin@accept && pac:all-sync << redirect:parse >> IT$-link && dns-configure :: for-map:challeneg@sync@2m.pin:on-direct-use::continuous>>action@sync
 
-1 = ("Buis-annual" = 92.27.91.137&79.77.188.52 --dns && 2 = "Buis-monthly") \ 3 = ("he" = 79.77.188.53&79.77.188.55 --dns) \
+1 = ("Buis-annual" = [dns-server-ip-addresses] --dns && 2 = "Buis-monthly") \ 3 = ("he" = [dns-server-ip-addresses] --dns) \
 
 @offer
 
 <<page>>
 
-"Your trial for SAFCOMMS Limited " {1|2}="Business DNS (£200 per annum | £20 per month) " {3}="Home and Entertainment DNS (£20 per annum) " ..."has started."
+"Your trial for [SAFCOMMS Limited] " {1|2}="Business DNS ([£200 per annum] | [£20 per month]) " {3}="Home and Entertainment DNS ([£20 per annum]) " ..."has started."
 
-"In two months time, you will be billed through our payment system with GoCardless."
+"In two months time, you will be billed through our payment system with [GoCardless]."
 
 "This two-month trial period does not oblige you to purchase SAFCOMMS DNS at the end of the trial."
 
-"Please see our " <<"terms and conditions.">><< https://spacetm.uk/terms-and-conditions >>
+"Please see our " <<"terms and conditions.">><< [https://"terms-and-conditions"] >>
 
-accept_button == <<"Accept">><<if accept_button=true && safcomms-dns=on:dns-client:system >> forward_link && bind:authorization_date else override:recursion-for:safcomms-dns=on:dns-client:system>>
+accept_button == <<"Accept">><<if accept_button=true && [safcomms]-dns=on:dns-client:system >> forward_link && bind:authorization_date else override:recursion-for:[safcomms]-dns=on:dns-client:system>>
 
 <<page>>
 
-authorization_date == { T(safcomms-dns=on:dns-client:system --permanent && trial:"Accept"=true && true@date)+2_calendar_months } 
+authorization_date == { T([safcomms]-dns=on:dns-client:system --permanent && trial:"Accept"=true && true@date)+2_calendar_months } 
 
-if accept_button=false --force:return >> @offer until:safcomms-dns=off:dns-client:system
+if accept_button=false --force:return >> @offer until:[safcomms]-dns=off:dns-client:system
 
-if safcomms-dns=on:system$ && link-to:authorization_date=false >> --force-entry >> @offer { as_new:dns-client for safcomms-dns=on:dns-client:system }
+if [safcomms]-dns=on:system$ && link-to:authorization_date=false >> --force-entry >> @offer { as_new:dns-client for safcomms-dns=on:dns-client:system }
 
 @authorization_date --through >> exception >> go:next>>page
 
-{ exception == option_2 = 2 @selection --on-gocardless && dns_selection:2=true parse-link@apt-connection --on-bind-socket:meter --as-link:2 --on-gocardless . : net-pin:auto-stac && print "Option 2 selected: you will be billed for the second month at Payment Authorisation in two months time (once your trial is over) and at the equivalent of £20 a month from then on, until you cancel" } \
+{ exception == option_2 = 2 @selection --on-gocardless && dns_selection:2=true parse-link@apt-connection --on-bind-socket:meter --as-link:2 --on-[gocardless] . : net-pin:auto-stac && print "Option 2 selected: you will be billed for the second month at Payment Authorisation in two months time (once your trial is over) and at the equivalent of £20 a month from then on, until you cancel" } \
 
-build >> exact-link == Cpac condition:on-kai-console && interweb-link for pac << gocardless == equal-link && registration@source:confirm-pending && pac-source == always-on : net-bind && remit=always-cli : for-parse -sinquaite : even_else \
+build >> exact-link == Cpac condition:on-kai-console && interweb-link for pac << [gocardless] == equal-link && registration@source:confirm-pending && pac-source == always-on : net-bind && remit=always-cli : for-parse -sinquaite : even_else \
 
 @option_2 :: parse-meter == initial-payment = subs1 && co-exact @mint-MT-network:for-stac --once-only : bind >> stac-rnd=false --only:link@extra --on-price:2 >> extra-for-pac : build @exact-link >> gocardless >> @registration_complete :: bind-meter && pac-bill == authorized >> monthly_transactional :: then-continue@dd-remit >> selection:2 >> else
 
---as-else : remove {"message"} --force && bill >> else:conditions=met .net-condition == pro_stac && net-bind --all-meter >> true-socket:DNS --on-agreement | all-agreements=true >> pac-as:link-on:customer-pending@gocardless.com >> manage @gocardless . >> bind_source:stac::auth_app_clearance=accept >>
+--as-else : remove {"message"} --force && bill >> else:conditions=met .net-condition == pro_stac && net-bind --all-meter >> true-socket:DNS --on-agreement | all-agreements=true >> pac-as:link-on:customer-pending@[gocardless.com] >> manage [@gocardless] . >> bind_source:stac::auth_app_clearance=accept >>
 
 update-bind && socket-link :: pulse && rebind = sequent @existing_customers :: netclear == integrate && @.socket== parse >> configure --then:core-reboot --to-update:all @manage
 
-sync auto "Gateway1" @parse_console:mtr --on-network-link >> receive-all-payments@authorization_date --force | retract gocardless-agreement:before@authorization_date --only if DNS-usage=false @+24h --or if DNS-usage=nonviable@dns-client:location else \
+sync auto "Gateway1" @parse_console:mtr --on-network-link >> receive-all-payments@authorization_date --force | retract [gocardless]-agreement:before@authorization_date --only if DNS-usage=false @+24h --or if DNS-usage=nonviable@dns-client:location else \
 
-retract DNS-usage=true --only if gocardless-agreement=denied | force cancel gocardless-agreement && retract DNS --auto --only if trl-access:on-bind-limit:parse@Ucompromise >> dns_client << && Cpac-permissions >> console_gift == no-network >> display-text "You are no longer authorized to use SAFCOMMS services. Please contact benkeyte689@outlook.com." | if network-configure:dns-client == trl >> parse-all:UI-service --auto:"blackbook" | accept later on conditions met
+retract DNS-usage=true --only if [gocardless]-agreement=denied | force cancel [gocardless]-agreement && retract DNS --auto --only if trl-access:on-bind-limit:parse@Ucompromise >> dns_client << && Cpac-permissions >> console_gift == no-network >> display-text "You are no longer authorized to use [SAFCOMMS] services. Please contact [email-address]." | if network-configure:dns-client == trl >> parse-all:UI-service --auto:"blackbook" | accept later on conditions met
 
 for-sync@cast=auto-meter .Ncore=variable && link:sync@net-torse:it$=socket-plug:Vbin --direct @pin_laminate:net-config=pregen && link:DNS@source-link::kai-integrate >> net-manage:pac-bind @it$-source$:boot-configure && id$-source>>scheip-reparse@stac >> variable$:stac-logic :: IT/0-sync >> parse-config:bind-sync@it$-variable .stac-reconfig :: bind-grep:link-variable$ && parse >> solid --it-force:path-sync@all+2m
 
@@ -50,21 +50,21 @@ TF1dir:SP-MPR.Rt10VN-ct.ops:app/Rdir:onsp-cse:dn1VTds-transo:on-pin/mac:U-sec=fa
 
 find-ip&trace :: @dhcp:link-trace@physical_address:sync :: @static:link-trace@single_ip:sync
 
-auto-link:accept-to-pay@gocardless >> \
+auto-link:accept-to-pay@[gocardless] >> \
 
 FTR-tree:on-sync && source_manage_id$:implicates@net$-for-source=render-for-sync && mount@cast:source >> all-data:direct from-accept-link@net$=true link-id$ && kai:integrate for-meep-manage >> accept && pin-all-net$ >> direct { if variou$ -trace-all:route$@direct && link_manifest --override-false } \
 
-S-core=sinquaite @option$-plug:on-link >> for-all-useage@79.77.188.48/28 && @92.27.91.137 >> parse-auto-override && confirm=on-kill-reroute:flag-false .Btrack-auto-net$ && manage-link-auto @DNS_plug :: source$@reconfirm=pass-id && track-net:override:STOP=plug \
+S-core=sinquaite @option$-plug:on-link >> for-all-useage@[management-ip-ranges] >> parse-auto-override && confirm=on-kill-reroute:flag-false .Btrack-auto-net$ && manage-link-auto @DNS_plug :: source$@reconfirm=pass-id && track-net:override:STOP=plug \
 
-parse@grey-link=auto-detect && minor-manage=all-plug$@sock$=sync --as-auto-bind : for-net$@group.ln id$-on-sinquaite :: Vbind-net$ >> parse thru IPvXYZ >> action-track all-render-manager && link_source$@exact-parse >> data --for-force -if-accept=true : bind-auto >> follow-route=plug @net$-for-source | render-gocardless for option$@gateway_dn$|mobile_data_dn$ --options >> :: sync-subdivide == net-retour .Mparse=cast >> regroup-if:on-mob-data == series-flag && bind_operation >> detect -seq.pin=parse@observe :: link-auto-force << regen.pin@net$ --reserve-link=pass && id$-on-source >> :: sub_divide >> render-auto-link --force else_net$ >> parse-gatewya-dn$ .sync \
+parse@grey-link=auto-detect && minor-manage=all-plug$@sock$=sync --as-auto-bind : for-net$@group.ln id$-on-sinquaite :: Vbind-net$ >> parse thru IPvXYZ >> action-track all-render-manager && link_source$@exact-parse >> data --for-force -if-accept=true : bind-auto >> follow-route=plug @net$-for-source | render-[gocardless] for option$@gateway_dn$|mobile_data_dn$ --options >> :: sync-subdivide == net-retour .Mparse=cast >> regroup-if:on-mob-data == series-flag && bind_operation >> detect -seq.pin=parse@observe :: link-auto-force << regen.pin@net$ --reserve-link=pass && id$-on-source >> :: sub_divide >> render-auto-link --force else_net$ >> parse-gatewya-dn$ .sync \
 
-@auto_retract : on-manage-pin:for-net$ >> return@gocardless:yearly if-verify=false@consecutive-intercept >> retrack @DNS_force:off :: >> pin$-id$-resync && net-bind :: >> pro_manage=always-false@dn$  if { return-restore < @T+var=6year$ } then auto_group:direct >> payment-option$:sync-parse == adj-adjust --force-manage && render-all-link$@dn$ >> respective-payment-force else : return >> new_source && bind-track:auto --to-accept-sync:page --direct:>new-link @link-net:regroup == stac_mount_source=solid >> bind_operation == link-dns:map 
+@auto_retract : on-manage-pin:for-net$ >> return@[gocardless]:yearly if-verify=false@consecutive-intercept >> retrack @DNS_force:off :: >> pin$-id$-resync && net-bind :: >> pro_manage=always-false@dn$  if { return-restore < @T+var=6year$ } then auto_group:direct >> payment-option$:sync-parse == adj-adjust --force-manage && render-all-link$@dn$ >> respective-payment-force else : return >> new_source && bind-track:auto --to-accept-sync:page --direct:>new-link @link-net:regroup == stac_mount_source=solid >> bind_operation == link-dns:map 
 
 && id$-on:pin$@variou$@manage-altro::|.|manage-id$:terminate:string-link$-force|.|:bind-operation:continue >> verify_as_new .
 
 |.|decay:sync@half_life:detect=bindX.pin:id$-track&rm:IT$-on:sock:decay-all:sinquaite|.|
 
-for-follow-ups:Bind-sync >> auto_relink@config-change :: net$-dns --adjust --always-apply:change$ @build_new|adjust @config . && integrate-into-command @parse >> dns_client$:allgroups :: << 79.77.188.48/28 && 92.27.91.137 --id$-sync && continue_link:for-bind-sequence from :: as_new && link_force-dn$-supply seamless-to:indiv-plan$ && interrupt|change @gateway_time:on-parse-link:or-usage:>contract-verify=0 : bind-auto-force : all-it$ >> path-to-link && direct_link:force@map=no-change:for-client$ --plug .
+for-follow-ups:Bind-sync >> auto_relink@config-change :: net$-dns --adjust --always-apply:change$ @build_new|adjust @config . && integrate-into-command @parse >> dns_client$:allgroups :: << [management-ip-ranges] --id$-sync && continue_link:for-bind-sequence from :: as_new && link_force-dn$-supply seamless-to:indiv-plan$ && interrupt|change @gateway_time:on-parse-link:or-usage:>contract-verify=0 : bind-auto-force : all-it$ >> path-to-link && direct_link:force@map=no-change:for-client$ --plug .
 
 bound-sync @false:vpn-override && sync:quell@direct-route-ip
 
@@ -94,18 +94,18 @@ return@parse:MP0-sinquaite == Vsocket@cast-link:DNS-protocol:V4 --return-all-sou
 
 @authorization_date
 
-"SAFCOMMS Limited DNS Payment Gateway"
+"[SAFCOMMS Limited] DNS Payment Gateway"
 
 "Your 2 Month Trial for " { 1 && 2 == "Business DNS " or 3 == "Home and Entertainment DNS " } "has ended."
 
-"Please accept our " <<"terms and conditions.">><<http://www.capps.spacetm.uk/svn/gateway1/t&c.html>>
+"Please accept our " <<"terms and conditions.">><<[terms-and-conditions-url]>>
 
---net-pin:auto:gell-I@1&2 : For Business DNS == "Please select "{ "Monthly" == choice_dns == 1 or 2 then 2:buis-monthly } or { "Yearly" == choice_dns == 1 or 2 then 1-buis_annual } reccur-to-source | activate:gocardless >> 1 or 2 else 3 
+--net-pin:auto:gell-I@1&2 : For Business DNS == "Please select "{ "Monthly" == choice_dns == 1 or 2 then 2:buis-monthly } or { "Yearly" == choice_dns == 1 or 2 then 1-buis_annual } reccur-to-source | activate:[gocardless] >> 1 or 2 else 3 
 
 "And then put your direct debit details here."
-                            *gocardless* ==  { 1=select_button == <<"Business DNS - Yearly">><< https://pay.gocardless.com/AL0005F4CJBXXX >> \
-                                               2=select_button == <<"Business DNS - Monthly">><< https://pay.gocardless.com/AL0005f4CV42QS >>
-                                               3=select_button == <<"Home and Entertainment DNS - Yearly">><< https://pay.gocardless.com/AL0005F4D1MWZ8 >>
+                            [*gocardless*] ==  { 1=select_button == <<"Business DNS - Yearly">><< [payment-system-redirect-url] >> \
+                                               2=select_button == <<"Business DNS - Monthly">><< [payment-system-redirect-url] >>
+                                               3=select_button == <<"Home and Entertainment DNS - Yearly">><< [payment-system-redirect-url] >>
 					     }
 "For accessing our full range of services."
 
@@ -116,11 +116,11 @@ all-it$=socket-force && /bin/pin/axis >> net-register >> trace-through;all-vm$@s
    {
 reconnect@accept=true
 
-for source$@return$:implement >> named.recursing@ipvx.spacetm.uk \
-for source$@return$:implement >> named.recursing@capps.spacetm.uk \
+for source$@return$:implement >> named.recursing@[serv_location] \
+for source$@return$:implement >> named.recursing@[serv_location] \
 pair 1 (2)
-for source$@return$:implement >> named.recursing@crome.umosras.uk \
-for source$@return$:implement >> named.recursing@subversion.spacetm.uk \
+for source$@return$:implement >> named.recursing@[serv_location] \
+for source$@return$:implement >> named.recursing@[serv_location] \
 pair 3
 
 net-new:concept-variant@dns-if-meter=true >> buis 
@@ -130,11 +130,12 @@ MINT@intercept >> Ucast:VM-config:supplied == variant:path$ && network$ == as-sy
 for-sequence=vm-config : net-override && kernel$-implement >> force-restore .
 path$-map && variou$ == sec-pin:mind-follow : all-it$ == as parse core$:network$:sync@stac >> \
 follow-suggest == manage && pac$=auto-design:for-link:mind-map.follow >> as-sequence:on-verbose-pertains : force@reuse=follow-path$ >> \
-store$
-new$
-interest$
-bui$
-stock-exchange$
+[business-option$
+...
+...
+...
+...
+etc.]
 
 proto-management >> map.sync --net-restore:Vdesign:path$ >> follow-link::>>sec.pin:adjust-on:config >> business_build : pic
 trace >> source : for-manage-multi-map.sync : Vcore-line && bind --force:all@attached:ip$ .stac
@@ -143,12 +144,12 @@ for-follow:limit-line >> readjust source$ manage-group$ && socket$:for-wire.link
 Vstac-auto:connect >> follow_route >> attach:Cpac-network-key$@43-console$:limit .
 source$=UI && >> cast-on-ceip:for-return=@connect .MINT-limit
 for:simple-link && follow=always-closure >> repac:network-configure :: bind-group@retain.ipr$:source$ :: for-follow >> \
-help$
-support$
-os$
-ui$
-visualisation$
-interface-connect$
+[business-services-$
+...
+...
+...
+...
+etc.]
 
 net-new:concept-variant@dns-if-meter=true >> he (&buis)
 standard:false-redirect$@socket=close
@@ -158,14 +159,15 @@ set-link && pic$-always:as-refer=monitor:for-ceip:text ...
 it$&ui$&link$-on0variou$:force-supply@retain&VM-config:deny-seperate .sync@sky-vm$:config-relink
 design$:multi-map >> pin:on-id$:retain--LP@sec.pin::>>design --for-source$@matt-attitude:source-link:ever
 pull-line@vdr-pin && stock-retained=vedwire@agree >> \
-tv$
-online$
-package$
-LB$
-royal.
+[home-services-$
+...
+...
+...
+...
+etc.]
 
 retain$=metered:as-loyal --all-pin$:return:sync=amplify@retain$
-@connect:always offer preferred choice$@UI-plug:safcomms_limited
+@connect:always offer preferred choice$@UI-plug:[safcomms_limited]
 net-sync:auto-aky:VM-control:pic-reuse=source$:fast-link:accept && denote-link .
 Cpac=vent.ln && manage-always:: >>sky-sec:all-cli$=retain$ \
 architecture@pay_confirm=permanent .
@@ -175,7 +177,7 @@ architecture@pay_confirm=full-sec .
 source$-on-build to retain == \
 sec@reaccept=confirm:on-recursion=yes|no
 @new-cli=source-fund:positive=yes-accept:VPN-mask-auto-configure=pre-included --force
-net-challenge$-override:against:cli$|safcomms_limited::>>challenge.bin
+net-challenge$-override:against:cli$|[safcomms_limited]::>>challenge.bin
 
 meter=well && pin-dns=connect :: @trial | else reconnect | >>
 trial-connection=1m:first-time:only :: billing:link-internal.mem >>
@@ -183,13 +185,13 @@ trial-connection=1m:first-time:only :: billing:link-internal.mem >>
 annual-packages:collect start 1m after trial : from-trial-end
 monthly-packages:collect start 1m after trial :: >> double:on:pay-collect@1m:after-trial-end:monthly-packages:collect:M1
 
-bridge:group && sinquaite >> spacetm_local && tac:bridge-pac<<::spacetm_exaw
+bridge:group && sinquaite >> [spacetm]_local && tac:bridge-pac<<::[spacetm]_exaw
 
-trigger=@stamp:collect&verified@gocardless :: payment$ >> buis \
+trigger=@stamp:collect&verified@[gocardless] :: payment$ >> buis \
 equiv:200GBP:annual
 equiv:20GBP:monthly
 
-trigger=@stamp:collect&verified@gocardless :: payment$ >> he \
+trigger=@stamp:collect&verified@[gocardless] :: payment$ >> he \
 equiv:20GBP:annual
 
 if pay_confirm=true >> end_script && link_dns :: >> /usr/bin/recu on /etc/named.conf @VM_choice$
