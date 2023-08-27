@@ -3,7 +3,7 @@
 #nano /usr/bin/sec1
 #! /bin/bash
 
-find [path-to-dns109] -type f | xargs << aaa xargs
+find [path-to-dns109] -type f | xargs [path-to-build-file] | << aaa
 
 aaa
 
